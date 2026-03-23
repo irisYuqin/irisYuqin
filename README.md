@@ -1,36 +1,64 @@
-# Hi there, I'm Yuqin Liu 👋 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Yuqin+Liu!+👋;AI+Undergraduate+@+Xi'an+Jiaotong+University;Top+2+Academic+Ranking+in+Major;Researching+LLM+Hallucinations+&+Distillation" alt="Typing SVG" />
+</p>
 
-[cite_start]I am an undergraduate AI student at **Xi’an Jiaotong University (XJTU)**, currently ranked **Top 2** in my major[cite: 2, 5]. [cite_start]My work focuses on making Large Language Models and time-series frameworks more trustworthy, explainable, and efficient through spectral analysis and knowledge distillation[cite: 10].
-
----
-
-### 🔭 Research & Projects
-- [cite_start]**LLM Hallucination Detection:** Modeling generation as nonlinear dynamical systems to catch hallucinations early via spectral stability metrics (~0.88 AUROC on HaluEval)[cite: 24, 26].
-- [cite_start]**Adaptive Knowledge Distillation:** Developing capacity-aware frameworks for time-series forecasting that dynamically assign weights based on teacher specialization[cite: 19].
-- [cite_start]**Industrial AI:** Built an end-to-end intelligent valve sizing system using Heterogeneous Graph Transformers (HGT) and RAG, currently tied to a filed patent[cite: 30, 32].
-- [cite_start]**Edge AI:** Developed a lightweight CNN for arc-fault detection, achieving **137× compression** (0.13MB) for embedded hardware deployment[cite: 35, 36].
-
----
-
-### 🛠 Tech Stack
-- [cite_start]**Languages:** Python, C++, Matlab, Verilog/System Verilog[cite: 42, 43, 45].
-- [cite_start]**Frameworks/Tools:** PyTorch, FastAPI, JupyterHub, Vivado, ModelSim[cite: 30, 39, 40].
-- [cite_start]**Research Tools:** LaTeX (Overleaf), CWT-based feature extraction[cite: 35].
-
----
-
-### 📈 Stats & Honors
-- [cite_start]🏆 **Provincial First Prize**, National Undergraduate Mathematical Modeling Contest (MCM) 2025[cite: 7].
-- [cite_start]🏅 **National Innovation Program** Lead Developer (Nationally-funded key project)[cite: 34].
-- [cite_start]📚 **First-Author Manuscripts** in preparation for top-tier venues like NeurIPS/ICML[cite: 12, 13, 27].
+## 🎓 About Me
+<table border="0">
+  <tr>
+    <td width="60%">
+      <b>Yuqin Liu (刘玉琴)</b> <br>
+      📍 <b>Affiliation:</b> College of AI, Xi'an Jiaotong University [cite: 2] <br>
+      🏆 <b>Academic Rank:</b> Top 2 / 2024-2028 Cohort [cite: 5] <br>
+      🧠 <b>Current Focus:</b> Spectral Dynamics in LLMs & Time-Series KD [cite: 10, 13] <br>
+      📧 <b>Contact:</b> Looking for Research Internships / PhD Opportunities
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=irisYuqin&show_icons=true&theme=dracula&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Reach Me
-- [cite_start]🎓 **Education:** College of Artificial Intelligence, Xi’an Jiaotong University[cite: 2].
-- 🎯 **Looking for:** Research internships or PhD opportunities in Brain-inspired AI and Continual Learning.
+## 🔬 Research Interests & Publications
+> "Modeling Intelligence with Precision and Interpretability"
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irisYuqin&show_icons=true&theme=radical" alt="Yuqin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisYuqin&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+- 📝 **Adaptive Knowledge Distillation** (First Author)
+  - [cite_start]Focused on Teacher Capacity Evaluation for Time Series [cite: 12, 19]
+  - [cite_start]*Targeting: NeurIPS / ICML* [cite: 12]
+- 🔍 **LLM Hallucination Detection** (First Author)
+  - [cite_start]Spectral Dynamics & Discrete-time Nonlinear Systems [cite: 13, 24]
+  - [cite_start]*Status: ~0.88 AUROC on HaluEval* [cite: 26]
+- ⚙️ **Industrial AI Systems** (Co-first Author)
+  - [cite_start]LLM-HGT Fusion & Intelligent Sizing [cite: 14, 30]
+  - [cite_start]*Output: Industrial Utility Patent Filed* [cite: 32]
+
+---
+
+## 🛠 Technical Skill Set
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,fastapi,git,linux,latex,verilog" />
+  </a>
+</p>
+
+- [cite_start]**Deep Learning:** LLMs, Knowledge Distillation, Time-Series Modeling [cite: 10, 17]
+- [cite_start]**Deployment:** INT8 Quantization, Pruning, Edge AI (137× Compression) [cite: 36]
+- [cite_start]**Hardware:** Vivado, ModelSim, System Verilog [cite: 38, 43]
+
+---
+
+## 🏆 Honors & Projects
+- [cite_start]🥇 **MCM 2025:** Provincial First Prize & National First Prize Nominee [cite: 7, 8]
+- [cite_start]💡 **National Innovation Program:** Lead Algorithm Developer for Smart Circuit Breakers [cite: 33, 34]
+- 📈 **GPA:** 3.95/4.3 (Cumulative); [cite_start]4.21/4.3 (Sophomore Fall) [cite: 4]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irisYuqin&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="right">
+  <i>Last updated: March 2026</i>
+</p>
