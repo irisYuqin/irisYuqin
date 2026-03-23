@@ -53,6 +53,5 @@ I aim to pursue **PhD research** on:
 ## Contact
 
 If you want to contact me:
-irisslyq@
-
+irisslyq@outlook.com
 
