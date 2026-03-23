@@ -1,44 +1,58 @@
-# Hi, I'm Yuqin Liu 👋 🪐
 
-I am an undergraduate student at the **College of Artificial Intelligence, Xi’an Jiaotong University (XJTU)**. 🏛️ This space serves as a digital archive of my academic journey, documenting my coursework, research explorations, and engineering practices. 📚✨
+# Yuqin Liu
 
----
+Undergraduate, **College of Artificial Intelligence, Xi’an Jiaotong University (XJTU)**
 
-### 🔍 Research Interests & Curiosities 🧠
-I am deeply curious about bridging the gap between biological intelligence and computational efficiency. My current focus includes:
-
-* **Brain-inspired & Continual Learning:** 🌿 Exploring how biological neural mechanisms can inspire AI to learn continuously without catastrophic forgetting.
-* **Efficient AI (Model Compression):** ⚡ Investigating Knowledge Distillation and pruning techniques to make complex models deployable on edge devices.
-* **Trustworthy & Explainable AI:** 🔍 Analyzing Large Language Model (LLM) hallucinations through the lens of nonlinear dynamical systems to improve transparency.
+I am interested in building learning systems that are **efficient, stable, and cognitively grounded**.
+My work so far spans **model optimization, learning dynamics, and reliability of large models**, and I am increasingly interested in connecting these with insights from **cognitive science and neuroscience**.
 
 ---
 
-### 📖 Academic Archive 📁
-This repository tracks my growth across various domains at XJTU:
-* **[Coursework]** ✏️ Implementations from core AI and Mathematics foundations, including Complex Analysis and Electronic Systems.
-* **[Research]** 🧪 Early-stage code and experiments regarding spectral dynamics in LLMs and adaptive distillation frameworks.
-* **[Projects]** 🛠️ Practical applications ranging from industrial valve sizing systems to embedded hardware optimization.
+## Research Interests
+
+* **Efficient Machine Learning**
+  Improving the computational and structural efficiency of deep models through **compression, distillation, and optimization**.
+
+* **Learning Dynamics & Reliability**
+  Understanding instability and hallucination in large models from a **dynamical systems perspective**, including representation and spectral behavior.
+
+* **Brain-inspired Learning (Emerging Interest)**
+  Exploring how principles from **cognitive science and neuroscience** can inform more stable and adaptive learning systems.
 
 ---
 
-### 🛠️ Tech Stack 💻
-* **Languages:** Python, C++, Matlab, Verilog / System Verilog 🐍
-* **Frameworks & Tools:** PyTorch, FastAPI, Vivado, ModelSim, LaTeX 🛠️
+## Work
+
+* **Projects**
+
+  * Industrial system modeling
+  * Embedded / hardware-aware optimization
+
+* **Coursework**
+  Foundations in mathematics, machine learning, and electronic systems.
 
 ---
 
-### 💬 Let's Connect! 🤝
-I am always open to discussing new ideas, especially at the intersection of **Cognitive Psychology** 🧠 and **Artificial Intelligence** 🤖. 
+## Technical Skills
 
-* 🔭 **Current Goal:** Seeking research internships or PhD opportunities in Brain-inspired AI.
-* ☕ **Discussion:** If you are working on LLM reliability or bio-inspired architectures, I'd love to chat! Feel free to reach out via an Issue or Email!
+* **Languages:** Python, C++, MATLAB, Verilog / SystemVerilog
+* **Tools:** PyTorch, FastAPI, Vivado, ModelSim, LaTeX
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irisYuqin&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
-</p>
+## Looking Ahead
 
-<p align="right">
-  <i>"Stay curious, stay grounded." 🌟 @ Xi'an Jiaotong University</i>
-</p>
+I aim to pursue **PhD research** on:
+
+* efficient and scalable learning systems
+* stability and reliability of deep models
+* brain-inspired or cognitively grounded AI
+
+---
+
+## Contact
+
+If you want to contact me:
+irisslyq@
+
+
